@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>__STORE_NAME__</title>
+  <meta name="description" content="__STORE_DESC__">
+  <meta name="theme-color" content="__THEME__">
+  <meta property="og:title" content="__STORE_NAME__">
+  <meta property="og:description" content="__STORE_DESC__">
+  <meta property="og:image" content="__STORE_LOGO__">
+  <link rel="icon" href="__STORE_LOGO__">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/store.css">
+  <link rel="stylesheet" href="/css/page.css">
+</head>
+<body>
+  <a class="announce" id="announce" hidden></a>
+
+  <div class="topbar">
+    <div class="container topbar-in">
+      <nav class="toplinks" id="toplinks" aria-label="روابط سريعة"></nav>
+      <form class="topsearch" id="searchForm" role="search">
+        <svg class="i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input name="q" type="search" placeholder="ابحث" aria-label="ابحث في المتجر" autocomplete="off" maxlength="100">
+      </form>
+    </div>
+  </div>
+
+  <header class="header" id="header">
+    <div class="container header-in">
+      <button class="hbtn menu-btn" id="menuBtn" aria-label="القائمة"></button>
+      <a href="/" class="brand" id="brand"><img src="__STORE_LOGO__" alt="__STORE_NAME__" id="brandLogo" hidden><span id="brandName" hidden>__STORE_NAME__</span></a>
+      <nav class="mainnav" id="mainnav" aria-label="القائمة الرئيسية"></nav>
+      <div class="header-actions">
+        <div class="user-wrap">
+          <button class="hbtn" id="userBtn" aria-label="حسابي"></button>
+          <div class="user-menu" id="userMenu" hidden></div>
+        </div>
+        <a href="/cart" class="hbtn cart-btn" aria-label="السلة"><span id="cartIcon"></span><span class="cart-badge" id="cartBadge">0</span></a>
+        <a href="/cart" class="cart-total num" id="cartTotal">0</a>
+      </div>
+    </div>
+  </header>
+
+  <aside class="drawer" id="drawer" hidden>
+    <div class="drawer-panel">
+      <div class="drawer-head"><strong id="drawerTitle">__STORE_NAME__</strong><button class="hbtn" id="drawerClose" aria-label="إغلاق"></button></div>
+      <nav id="drawerNav"></nav>
+    </div>
+  </aside>
+
+  <main id="app" class="container"><div class="loading-box"><div class="spinner"></div></div></main>
+
+  <footer class="footer" id="footer"></footer>
+
+  <script src="/js/common/common.js"></script>
+  <script src="/js/common/page-render.js"></script>
+  <script src="/js/store/core.js"></script>
+  <script src="/js/store/cart.js"></script>
+  <script src="/js/store/auth.js"></script>
+  <script src="/js/store/views-catalog.js"></script>
+  <script src="/js/store/views-checkout.js"></script>
+  <script src="/js/store/views-account.js"></script>
+  <script src="/js/store/views-pages.js"></script>
+  <script src="/js/store/router.js"></script>
+  <script src="/js/store/boot.js"></script>
+</body>
+</html>

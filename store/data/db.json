@@ -1,0 +1,794 @@
+{
+ "version": 1,
+ "settings": {
+  "storeName": "متجر مَــأْذَنَــة",
+  "description": "متجر مَــأْذَنَــة الرسمي — مـتجـر متخصص بالسبح وعشاق السبح.",
+  "logo": "/img/logo.png",
+  "logoMode": "both",
+  "logoText": "مَــأْذَنَــة",
+  "logoTextColor": "#0f4c52",
+  "primaryColor": "#0f4c52",
+  "accentColor": "#a8844a",
+  "currency": "ر.س",
+  "announcement": {
+   "enabled": true,
+   "text": "خصم 10% على جميع المنتجات لفترة محدودة",
+   "link": ""
+  },
+  "topLinks": [
+   {
+    "label": "الرئيسية",
+    "url": "/"
+   },
+   {
+    "label": "تواصل معنا",
+    "url": "#footer"
+   },
+   {
+    "label": "سياسة الشروط والأحكام",
+    "url": "/page/terms"
+   }
+  ],
+  "menu": [
+   {
+    "label": "السبح المميزة",
+    "url": "/category/42rzedvj3i"
+   }
+  ],
+  "hero": {
+   "enabled": true,
+   "title": "اهلا بكم في متجر مَــأْذَنَــة",
+   "highlight": "لي محبي السبح الرجالية",
+   "text": "نوفر لك مجموعة متميزة من السبح الخاصة لتناسب ذائقتك العالية، مع خيارات واسعة تناسب جميع الأذواق والظروف. بادر بالشراء وكن من عمالئنا المتميزون.",
+   "buttonText": "تصفح المنتجات المميزة الان",
+   "buttonLink": "#products",
+   "image": "/img/logo.png"
+  },
+  "whatsappVerify": false,
+  "banners": [],
+  "footer": {
+   "about": "متجر مَــأْذَنَــة الرسمي. كل المشتريات تصلنا ونقوم بمعالجتها بعناية تامة لتصلكم منتجاتنا بأفضل جودة.",
+   "copyright": "جميع الحقوق محفوظة",
+   "showBrand": true,
+   "columns": [
+    {
+     "id": "i2tu8s",
+     "title": "روابط مهمة",
+     "links": [
+      {
+       "label": "الرئيسية",
+       "url": "/"
+      },
+      {
+       "label": "من نحن",
+       "url": "/page/about"
+      },
+      {
+       "label": "سياسة الشروط والأحكام",
+       "url": "/page/terms"
+      },
+      {
+       "label": "سياسة الاسترجاع والاستبدال",
+       "url": "/page/returns"
+      },
+      {
+       "label": "حسابي",
+       "url": "/account"
+      }
+     ]
+    },
+    {
+     "id": "gjpz28",
+     "title": "الأقسام",
+     "links": []
+    },
+    {
+     "id": "yxewq5",
+     "title": "تواصل معنا",
+     "links": [
+      {
+       "label": "واتساب",
+       "url": "https://wa.me/966559750395"
+      },
+      {
+       "label": "اتصل بنا",
+       "url": "tel:+966559750395"
+      }
+     ]
+    }
+   ],
+   "email": "",
+   "phone": "",
+   "whatsapp": ""
+  },
+  "social": {
+   "discord": "",
+   "x": "",
+   "instagram": "",
+   "tiktok": "",
+   "snapchat": "",
+   "youtube": ""
+  },
+  "payment": {
+   "bankEnabled": true,
+   "bankName": "",
+   "accountName": "",
+   "iban": "",
+   "instructions": "حوّل المبلغ على الحساب البنكي واكتب رقم الطلب في ملاحظة التحويل، وبعدها اضغط \"أكّدت التحويل\" واكتب اسم المحوّل أو رقم العملية."
+  }
+ },
+ "categories": [
+  {
+   "id": "42rzedvj3i",
+   "name": "السبح المميزة",
+   "description": "",
+   "image": "/uploads/mv6g5w99-fet55ga4.png",
+   "visible": true,
+   "showOnHome": true,
+   "order": 0,
+   "createdAt": 1791875380552
+  }
+ ],
+ "products": [
+  {
+   "id": "kp4apprqyx",
+   "shortDesc": "سوار خرز صلاة راتنجي 45 حبة 10 مم",
+   "description": "سوار خرز صلاة راتنجي 45 حبة 10 مم، إكسسوار راتنجي فاخر بطراز عربي أنيق وعملي قطعة واحدة",
+   "salePrice": 27,
+   "quantity": 3,
+   "categoryIds": [
+    "42rzedvj3i"
+   ],
+   "images": [
+    "/uploads/mv6g5w99-fet55ga4.png"
+   ],
+   "visible": true,
+   "sold": 0,
+   "ratingSum": 0,
+   "ratingCount": 0,
+   "createdAt": 1791876066884,
+   "name": "سبحة سوار خرز صلاة راتنجي",
+   "price": 30,
+   "updatedAt": 1791881922125
+  }
+ ],
+ "media": [
+  {
+   "id": "5z8euxrg8v",
+   "url": "/uploads/mv6g5w99-fet55ga4.png",
+   "name": "1775456626cb4fe54a03835f55f535542b6c97bc8a_thumbnail_405x.png",
+   "size": 268679,
+   "type": "image/png",
+   "createdAt": 1791881808526,
+   "by": "عمر الذيابي ( مبرمج الموقع )*"
+  },
+  {
+   "id": "ff2c4hzx47",
+   "url": "/uploads/mv5mbqg7-bytynjt6.png",
+   "name": "cropped_circle_image.png",
+   "size": 893082,
+   "type": "image/png",
+   "createdAt": 1791831692456,
+   "by": "اصيل التويجري"
+  }
+ ],
+ "admins": [
+  {
+   "id": "9i8qcdnp37",
+   "name": "اصيل التويجري",
+   "email": "5521ala884069@gmail.com",
+   "phone": "+966559750395",
+   "role": "owner",
+   "permissions": [
+    "orders",
+    "products",
+    "categories",
+    "customers",
+    "media",
+    "design",
+    "admins"
+   ],
+   "passwordHash": "s1$FBB8/bTjZ82bLqUsqsqh/Q==$cPXRQBgTkTGfHIjixAO3BbKrjK+F4lgvHxgJlFm+JydvtOosOMEtR2EEK/Og0nxuXL8j2cCRN3CJyRARNEl0Mg==",
+   "mustChangePassword": false,
+   "active": true,
+   "createdAt": 1791830128825,
+   "lastLoginAt": 1791887538163,
+   "createdBy": null
+  },
+  {
+   "id": "dz2g2wbzku",
+   "name": "عمر الذيابي ( مبرمج الموقع )*",
+   "email": "omarkhalid1431@gmail.com",
+   "phone": "",
+   "role": "owner",
+   "permissions": [
+    "orders",
+    "products",
+    "categories",
+    "customers",
+    "media",
+    "design",
+    "admins"
+   ],
+   "passwordHash": "s1$2t2s33nYAQbq7NVFUqBVxw==$oEM4Tn2xRi6p/gGXQhFzTtATtGmwYhlFQKKzMVniXhpe9pwFQjwEjOCNi1BMos9CkbZLeRwQpIXM233RodYRKw==",
+   "mustChangePassword": false,
+   "active": true,
+   "createdAt": 1791832413923,
+   "lastLoginAt": 1791881632188,
+   "createdBy": "9i8qcdnp37"
+  }
+ ],
+ "customers": [
+  {
+   "id": "jwk7g4yn2p",
+   "name": "عمر خالد الذيابي",
+   "email": "omarkhalid1431@gmail.com",
+   "phone": "+966556436773",
+   "phoneVerified": false,
+   "passwordHash": "s1$ISSP0AuEBQcEEMcumCk27w==$DUcogPv+27M08ptSK1xsTYTswhg3rIVKmMlCjMFMyk80vOZLm8yTqicdhrwwBRrskeC6ylb3saCMzBd/0GbMqQ==",
+   "createdAt": 1791880365496
+  }
+ ],
+ "orders": [
+  {
+   "id": 10001,
+   "customerId": "jwk7g4yn2p",
+   "customer": {
+    "name": "عمر خالد الذيابي",
+    "email": "omarkhalid1431@gmail.com",
+    "phone": "+966556436773"
+   },
+   "items": [
+    {
+     "productId": "kp4apprqyx",
+     "name": "سبحة سوار خرز صلاة راتنجي",
+     "image": "/uploads/mv6g5w99-fet55ga4.png",
+     "unitPrice": 27,
+     "qty": 1,
+     "total": 27
+    }
+   ],
+   "subtotal": 27,
+   "total": 27,
+   "status": "cancelled",
+   "note": "",
+   "reference": "عمر خالد ضيدان الذيابي",
+   "adminNote": "",
+   "history": [
+    {
+     "status": "pending_payment",
+     "at": 1791882067467,
+     "by": "العميل"
+    },
+    {
+     "status": "under_review",
+     "at": 1791882099647,
+     "by": "العميل"
+    },
+    {
+     "status": "processing",
+     "at": 1791882493836,
+     "by": "عمر الذيابي ( مبرمج الموقع )*"
+    },
+    {
+     "status": "cancelled",
+     "at": 1791896341308,
+     "by": "عمر الذيابي ( مبرمج الموقع )*"
+    }
+   ],
+   "createdAt": 1791882067467
+  }
+ ],
+ "ratings": [],
+ "sessions": [
+  {
+   "h": "4f955bec6f909ad27759d7dd8cd5b0fd300ba695841903604956d120f598e705",
+   "kind": "admin",
+   "userId": "dz2g2wbzku",
+   "exp": 1792437231165
+  },
+  {
+   "h": "96608e145d5625072359c2329d12b0a8dfb83b085b167d24ea6093337f6e5853",
+   "kind": "customer",
+   "userId": "jwk7g4yn2p",
+   "exp": 1794472365497
+  },
+  {
+   "h": "2803c40e9bd853f63479eeceae05980725c4a8ec809a1821398f5567cbd32b48",
+   "kind": "customer",
+   "userId": "jwk7g4yn2p",
+   "exp": 1794473558789
+  },
+  {
+   "h": "30256c15b6c82c6ee700befa0019a963b48db3e8fe0b4fd9161951d0bf714914",
+   "kind": "admin",
+   "userId": "dz2g2wbzku",
+   "exp": 1792486432189
+  },
+  {
+   "h": "6af6aba9db3c189c9297c5a142be79ee1218e692a8f46c884c2dc99856141720",
+   "kind": "admin",
+   "userId": "9i8qcdnp37",
+   "exp": 1792491665761
+  },
+  {
+   "h": "a8107145a5ac624c607144820e55a8cb0a4cffc70bcc219e83027f84364a0cf2",
+   "kind": "admin",
+   "userId": "9i8qcdnp37",
+   "exp": 1792492338163
+  }
+ ],
+ "counters": {
+  "order": 10001
+ },
+ "pages": [
+  {
+   "id": "hgsdiaypbm",
+   "title": "الصفحة الرئيسية",
+   "slug": "home",
+   "isHome": true,
+   "visible": true,
+   "showInFooter": false,
+   "showTitle": false,
+   "description": "",
+   "blocks": [
+    {
+     "id": "fhnzgwj7",
+     "type": "hero",
+     "bg": "",
+     "pad": "sm",
+     "width": "wide",
+     "title": "اهلا بكم في متجر مَــأْذَنَــة",
+     "highlight": "لي محبي السبح الرجالية",
+     "text": "نوفر لك مجموعة متميزة من السبح الخاصة لتناسب ذائقتك العالية، مع خيارات واسعة تناسب جميع الأذواق والظروف. بادر بالشراء وكن من عمالئنا المتميزون.",
+     "buttonText": "تصفح المنتجات المميزة الان",
+     "buttonLink": "#products",
+     "image": "/img/logo.png"
+    },
+    {
+     "id": "1xw9hmy485",
+     "type": "divider",
+     "bg": "",
+     "pad": "sm",
+     "width": "normal",
+     "style": "ornament",
+     "space": 8
+    },
+    {
+     "id": "vyvxy5qn",
+     "type": "products",
+     "bg": "",
+     "pad": "md",
+     "width": "wide",
+     "categoryId": "",
+     "title": "منتجاتنا",
+     "layout": "grid",
+     "sort": "new",
+     "limit": 12,
+     "seeAll": false
+    },
+    {
+     "id": "6vcfwmtc",
+     "type": "products",
+     "bg": "",
+     "pad": "md",
+     "width": "wide",
+     "categoryId": "42rzedvj3i",
+     "title": "",
+     "layout": "row",
+     "sort": "new",
+     "limit": 12,
+     "seeAll": true
+    }
+   ],
+   "createdAt": 1791874827043,
+   "updatedAt": 1791881930489
+  },
+  {
+   "id": "4xi5szig33",
+   "title": "من نحن",
+   "slug": "about",
+   "visible": true,
+   "showInFooter": true,
+   "showTitle": false,
+   "description": "",
+   "blocks": [
+    {
+     "id": "frmn5afw",
+     "type": "banner",
+     "bg": "",
+     "pad": "md",
+     "width": "wide",
+     "title": "من نحن",
+     "text": "تعرّف على متجر مَــأْذَنَــة وقصتنا",
+     "image": "",
+     "color": "#ffffff",
+     "overlay": 0,
+     "align": "center",
+     "minHeight": 260,
+     "buttonText": "",
+     "buttonLink": ""
+    },
+    {
+     "id": "dsn7mqh7",
+     "type": "imageText",
+     "bg": "",
+     "pad": "md",
+     "width": "normal",
+     "src": "/img/logo.png",
+     "alt": "متجر مَــأْذَنَــة",
+     "imagePos": "right",
+     "imageSize": 40,
+     "valign": "center",
+     "radius": true,
+     "doc": [
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "قصتنا"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "متجر مَــأْذَنَــة متجر يقدّم لك منتجات مختارة بعناية تجمع بين الجودة والأصالة."
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "نهتم بكل تفصيلة، من اختيار المنتج إلى تغليفه وتوصيله، عشان توصلك تجربة تليق فيك."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "vtx342m2",
+     "type": "divider",
+     "bg": "",
+     "pad": "md",
+     "width": "normal",
+     "style": "ornament",
+     "space": 40
+    },
+    {
+     "id": "demu3sry",
+     "type": "text",
+     "bg": "",
+     "pad": "md",
+     "width": "narrow",
+     "doc": [
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "ليش تختارنا؟"
+        }
+       ],
+       "align": "center"
+      },
+      {
+       "type": "ul",
+       "items": [
+        [
+         {
+          "text": "منتجات مختارة بعناية وجودة عالية"
+         }
+        ],
+        [
+         {
+          "text": "تغليف أنيق يناسب الإهداء"
+         }
+        ],
+        [
+         {
+          "text": "دفع آمن ومتابعة لطلبك خطوة بخطوة"
+         }
+        ],
+        [
+         {
+          "text": "خدمة عملاء تهتم فيك قبل وبعد الشراء"
+         }
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "wvz2px3h",
+     "type": "button",
+     "bg": "",
+     "pad": "md",
+     "width": "normal",
+     "text": "تصفح المنتجات",
+     "link": "/",
+     "style": "primary",
+     "size": "lg",
+     "align": "center"
+    }
+   ],
+   "createdAt": 1791873490329,
+   "updatedAt": 1791873646327
+  },
+  {
+   "id": "7aifct7r2h",
+   "title": "الشروط والأحكام",
+   "slug": "terms",
+   "visible": true,
+   "showInFooter": false,
+   "showTitle": true,
+   "description": "",
+   "blocks": [
+    {
+     "id": "6adrcbar",
+     "type": "text",
+     "bg": "",
+     "pad": "md",
+     "width": "narrow",
+     "doc": [
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "مقدمة"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "باستخدامك لموقع متجر مَــأْذَنَــة أو إتمامك لأي طلب، فإنك توافق على الشروط والأحكام التالية. نرجو قراءتها بعناية."
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "الطلبات والأسعار"
+        }
+       ]
+      },
+      {
+       "type": "ul",
+       "items": [
+        [
+         {
+          "text": "جميع الأسعار المعروضة بالريال السعودي."
+         }
+        ],
+        [
+         {
+          "text": "يتم تأكيد الطلب بعد استلام الدفع ومراجعته."
+         }
+        ],
+        [
+         {
+          "text": "يحق للمتجر إلغاء الطلب في حال عدم توفر المنتج، مع إعادة المبلغ كاملاً."
+         }
+        ]
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "الدفع"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "الدفع عن طريق التحويل البنكي على الحساب الموضح عند إتمام الطلب، مع كتابة رقم الطلب في ملاحظة التحويل."
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "الشحن والتوصيل"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "يتم تجهيز الطلب وشحنه بعد تأكيد الدفع، وتختلف مدة التوصيل حسب المدينة."
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "الاسترجاع والاستبدال"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "تفاصيل الاسترجاع والاستبدال موضحة في صفحة "
+        },
+        {
+         "text": "سياسة الاسترجاع والاستبدال",
+         "href": "/page/returns"
+        },
+        {
+         "text": "."
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "الخصوصية"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "نستخدم بياناتك (الاسم، الإيميل، رقم الجوال) لإتمام طلباتك والتواصل معك فقط، ولا نشاركها مع أي طرف آخر إلا بالقدر اللازم لتنفيذ الطلب."
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "التواصل"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "لأي استفسار تواصل معنا عبر وسائل التواصل الموضحة أسفل الموقع."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "createdAt": 1791873490329,
+   "updatedAt": 1791873838819
+  },
+  {
+   "id": "58np2fzfgc",
+   "title": "سياسة الاسترجاع والاستبدال",
+   "slug": "returns",
+   "visible": true,
+   "showInFooter": true,
+   "showTitle": true,
+   "description": "",
+   "blocks": [
+    {
+     "id": "w3whifyk",
+     "type": "text",
+     "bg": "",
+     "pad": "md",
+     "width": "narrow",
+     "doc": [
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "نحرص على رضاك التام، وإذا ما كان المنتج مناسب لك تقدر تطلب الاسترجاع أو الاستبدال حسب الشروط التالية:"
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "مدة الاسترجاع"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "خلال 7 أيام من تاريخ استلام الطلب."
+        }
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "شروط الاسترجاع"
+        }
+       ]
+      },
+      {
+       "type": "ul",
+       "items": [
+        [
+         {
+          "text": "أن يكون المنتج بحالته الأصلية وغير مستخدم."
+         }
+        ],
+        [
+         {
+          "text": "أن يكون في تغليفه الأصلي مع جميع ملحقاته."
+         }
+        ],
+        [
+         {
+          "text": "ذكر رقم الطلب عند التواصل معنا."
+         }
+        ]
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "حالات لا يشملها الاسترجاع"
+        }
+       ]
+      },
+      {
+       "type": "ul",
+       "items": [
+        [
+         {
+          "text": "المنتجات المصنوعة أو المعدّلة حسب طلب العميل."
+         }
+        ],
+        [
+         {
+          "text": "المنتجات المستخدمة أو التالفة بسبب سوء الاستخدام."
+         }
+        ]
+       ]
+      },
+      {
+       "type": "h3",
+       "children": [
+        {
+         "text": "استرداد المبلغ"
+        }
+       ]
+      },
+      {
+       "type": "p",
+       "children": [
+        {
+         "text": "يُعاد المبلغ بنفس طريقة الدفع بعد استلام المنتج المرتجع وفحصه."
+        }
+       ]
+      },
+      {
+       "type": "blockquote",
+       "children": [
+        {
+         "text": "لطلب الاسترجاع أو الاستبدال تواصل معنا عبر وسائل التواصل الموضحة أسفل الموقع."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "createdAt": 1791873490330,
+   "updatedAt": 1791873904421
+  }
+ ]
+}
